@@ -1,7 +1,5 @@
-# lc 217
-# contains duplicate
-# sort and look at the neighbor
-# hash / set to store the seen ones
+# lc 242
+# valid anagram
 
 from collections import defaultdict
 import pytest
